@@ -11,6 +11,7 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+[comment]: <> (This is a comment, it will not be included)
+[comment]: <> ({% for post in site.publications reversed %} {% include archive-single.html %} {% endfor %})
+
+This is a test. 
