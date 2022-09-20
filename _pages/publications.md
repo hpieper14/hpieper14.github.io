@@ -5,13 +5,13 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-[comment]: <> (This is a comment, it will not be included)
+[comment]: <> ({% if author.googlescholar %} You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>{% endif %})
+[comment]: <> ({% include base_path %})
 [comment]: <> ({% for post in site.publications reversed %} {% include archive-single.html %} {% endfor %})
 
-This is a test. 
+## Research 
+
+## Presentations
+\* [Spectral Stability via the Maslov Index and Validated Numerics](https://www.youtube.com/watch?v=q3XCCT-5ftcMinisymposium): Methods for spectral stability of coherent structures, SIAM Conference on Nonlinear Waves and Coherent Structures, Bremen, Germany, August 2022
+
+## Expository Writing 
