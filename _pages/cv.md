@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "CV and Resume"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,6 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-This is also a test. 
+My resume for industry positions can be found [here]({{ site.url }}/files/resume1.pdf).
 
-My resume for industry positions can be found [here]({{ site.url }}/files/paper1.pdf) directly.
+My academic CV can be found [here]({{ site.url }}/files/graduate_cv.pdf)
