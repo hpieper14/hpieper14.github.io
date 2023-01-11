@@ -11,4 +11,4 @@ redirect_from:
 
 My resume for industry positions can be found [here]({{ site.url }}/files/resume1.pdf).
 
-My academic CV can be found [here]({{ site.url }}/files/graduate_cv.pdf)
+My academic CV can be found [here]({{ site.url }}/files/graduate_cv.pdf).
