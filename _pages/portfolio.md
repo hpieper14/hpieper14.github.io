@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-## Data Science Projects 
+## Data Science and Machine Learning Projects 
 ### [ClassifyMyMeds: Predicting Prior Authorization Approval and Volume for CoverMyMeds](https://github.com/hpieper14/classifymymeds) 
 
 This project was sponsored by [CoverMyMeds](https://www.covermymeds.com) and was completed as a capstone project for [The Erdos Institute](https://www.erdosinstitute.org).  In this project, we survey many classifiers for predicting how likely a certain prior authorization (PA) claim will be approved, and forecast future volume of PA claims with time series analysis techniques. 
@@ -20,6 +20,3 @@ This project uses deep neural networks to solve and identify the Swift-Hohenberg
 *Tools used*: deep learning
 
 
-<! -- 
-## Open Source Contributions
- -->
