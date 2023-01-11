@@ -19,4 +19,7 @@ This project uses deep neural networks to solve and identify the Swift-Hohenberg
 
 *Tools used*: deep learning
 
+
+<! -- 
 ## Open Source Contributions
+ -->
